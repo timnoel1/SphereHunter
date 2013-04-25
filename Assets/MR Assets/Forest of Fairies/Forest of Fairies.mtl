@@ -1,0 +1,107 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 18.11.2010 16:20:51
+
+newmtl m0
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS00.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS00.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS00.png"
+
+newmtl m2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS04.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS04.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS04.png"
+
+newmtl m3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS03.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS03.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS03.png"
+
+newmtl m4
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS02.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS02.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS02.png"
+
+newmtl m6
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS01.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS01.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS01.png"
+
+newmtl m1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS05.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS05.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS05.png"
+
+newmtl m5
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS06.png"
+	map_Kd "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS06.png"
+	map_d "C:\Users\Lexou\Documents\3D stuff\Wind Waker Stages\Forest of Fairies\ForeSS06.png"
