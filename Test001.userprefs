@@ -1,6 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScoreUI.js">
+    <Files>
+      <File FileName="Assets\title.js" Line="13" Column="21" />
+      <File FileName="Assets\orangeGateHelper.js" Line="11" Column="1" />
+      <File FileName="Assets\pause.js" Line="4" Column="1" />
+      <File FileName="Assets\ScoreUI.js" Line="34" Column="82" />
+      <File FileName="Assets\underwater.js" Line="20" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

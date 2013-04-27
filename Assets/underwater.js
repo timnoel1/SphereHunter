@@ -17,7 +17,7 @@ function Start () {
 }
  
 function Update () {
-    if (transform.position.y < underwaterLevel) {
+    if (transform.position.y <= underwaterLevel) {
         RenderSettings.fog = true;
         RenderSettings.fogColor = Color (0, 0.4, 0.7, 0.6);
         RenderSettings.fogDensity = 0.04;
